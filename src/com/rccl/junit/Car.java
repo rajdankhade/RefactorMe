@@ -6,7 +6,7 @@ package com.rccl.junit;
  * This program takes the Car vehicle details
  * 
  * @author Raj
- * @version 1.0
+ * @version 1.0 
  * @since   03-31-2019
  */
 

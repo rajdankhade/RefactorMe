@@ -18,7 +18,7 @@ class BikeVeh extends Vehicle {
 	   * @param Type This is the first paramter to move method
 	   * @return String This returns moving vehicle details.
 	   */
-	public String move(Type type) {
+	public String move(Type type) { 
 		if (type == Type.BIKE) {
 		return Consts.MOVING +"bike";
 		} else {

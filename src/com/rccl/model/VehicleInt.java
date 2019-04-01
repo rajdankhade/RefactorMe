@@ -2,7 +2,7 @@ package com.rccl.model;
 
 /**
  * 
- */
+ */ 
 /**
  * This program has declaration the vehicle details
  * 

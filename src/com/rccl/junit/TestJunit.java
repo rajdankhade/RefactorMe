@@ -21,7 +21,7 @@ public class TestJunit {
 	String strCar = new String("moving like a car");
 
 	VehicleInt bike = new Bike();
-	String strBike = new String("moving like a bike");
+	String strBike = new String("moving like a bike"); 
 
 	CarVeh carVeh = new CarVeh();
 	BikeVeh bikeVeh = new BikeVeh();

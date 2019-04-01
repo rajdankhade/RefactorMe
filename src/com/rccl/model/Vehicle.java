@@ -8,7 +8,7 @@ package com.rccl.model;
  * 
  * @author Raj
  * @version 1.0
- * @since 03-31-2019
+ * @since 03-31-2019 
  */
 public class Vehicle {
 
